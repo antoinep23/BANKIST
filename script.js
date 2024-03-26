@@ -320,10 +320,3 @@ btnSort.addEventListener('click', function (e) {
   displayMovements(currentAccount, !sorted);
   sorted = !sorted;
 });
-
-
-
-
-
-
-// Builded thanks to the course of Jonas Schmedtmann
